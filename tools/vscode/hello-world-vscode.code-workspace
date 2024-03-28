@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../sub--dad"
+		},
+		{
+			"path": "../../sub--neon"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"color-highlight.markerType": "outline",
+		"workbench.colorCustomizations": {
+			"titleBar.activeForeground": "#ffffff",
+			"titleBar.activeBackground": "#ff00cc"
+		}
+	}
+}
